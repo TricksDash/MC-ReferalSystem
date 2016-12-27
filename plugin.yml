@@ -1,0 +1,7 @@
+main: rocks.tricks.main.Core
+version: 1.0
+name: ReferalSystem
+
+commands:
+ refer:
+  description: The ability to refer one player
